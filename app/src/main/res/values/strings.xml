@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CryptoMoon</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string-array name="Currency1">
+        <item>Bitcoin</item>
+        <item>Ethereum</item>
+        <item>Litecoin</item>
+        <item>XRP</item>
+        <item>Stellar</item>
+    </string-array>
+
+    <string-array name="Currency2">
+        <item>Bitcoin</item>
+        <item>Ethereum</item>
+        <item>Litecoin</item>
+        <item>XRP</item>
+        <item>Stellar</item>
+    </string-array>
+
+</resources>
